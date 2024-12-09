@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Harish E  
 
 **💻 Web Developer | 📊 Data Analyst | 🌱 Lifelong Learner**
