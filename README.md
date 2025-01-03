@@ -32,7 +32,7 @@
 
 ## 📫 How to Reach Me  
 - **Email:** eharish3005@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **LinkedIn:**  www.linkedin.com/in/harish-e-naidu-676992302 
 - **Portfolio:** [Your Portfolio Website](#)
 
 ---
