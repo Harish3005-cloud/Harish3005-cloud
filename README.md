@@ -16,7 +16,7 @@
 - HTML | CSS | JavaScript | React | Node.js | Express  
 
 **Data Analysis:**  
-- Python | Pandas | NumPy | Matplotlib | SQL | Excel  
+- Python | Pandas | NumPy | Matplotlib | SQL | Excel | C
 
 **Version Control & Deployment:**  
 - Git | GitHub | Docker | Heroku  
