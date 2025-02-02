@@ -41,5 +41,5 @@
 I love combining creativity and logic to build impactful projects!
 
 ---
+## Projects Made
 
-You can adjust the content to reflect your specific skills and contact details. Let me know if you'd like more customization! 🚀
