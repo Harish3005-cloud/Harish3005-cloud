@@ -3,8 +3,7 @@
 **💻 Web Developer | 📊 Data Analyst | 🌱 Lifelong Learner**
 
 
-![Harish3005-cloud's Stats](https://github-readme-stats.vercel.app/api?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+![Harish3005-cloud's Stats](https://github-readme-stats.vercel.app/api?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
@@ -14,6 +13,8 @@
 - Continuously learning new technologies and improving my skills.  
 
 ---
+![Harish3005-cloud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish3005-cloud&theme=vue-dark&hide_border=false)
+
 
 ## 🔧 Technologies & Tools  
 **Web Development:**  
@@ -25,7 +26,7 @@
 **Version Control & Deployment:**  
 - Git | GitHub | Docker | Heroku  
 
-![Harish3005-cloud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Harish3005-cloud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
