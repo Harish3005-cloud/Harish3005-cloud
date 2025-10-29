@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harish E  
 
-**💻 Web Developer | 📊 Data Analyst | 🌱 Lifelong Learner**
+**💻 Full-Stack Web Developer | 📊 Data Analyst | 🌱 Lifelong Learner**
 
 
 ![Harish3005-cloud's Stats](https://github-readme-stats.vercel.app/api?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
@@ -17,22 +17,29 @@
 
 
 ## 🔧 Technologies & Tools  
-**Web Development:**  
-- HTML | CSS | JavaScript | React | Node.js 
+**Full-stack Development:**  
+- HTML | CSS | JavaScript | Next.js | React | Node.js
+  
+**Database (SQL & no-SQL)**
+- MongoDB | MySql | Sql-Plus
 
 **Data Analysis:**  
-- Python | Pandas | NumPy | Matplotlib | SQL | Excel 
+- Python | Pandas | NumPy | Matplotlib  
 
 **Version Control & Deployment:**  
-- Git | GitHub | Docker | Heroku  
+- Git | GitHub | Docker | jenkins | vercel
+  
+**Other Familiar tools**
+- Wireshark | network simulator | figma 
 
 ![Harish3005-cloud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
 ## 📈 Current Focus  
-- Enhancing full-stack web development skills.  
-- Learning advanced data visualization techniques.  
+- Enhancing **Full-Stack Web** development skills.  
+- Learning advanced **Data Science** techniques.
+- Getting Strong with **JAVA**  
 
 
 ---
