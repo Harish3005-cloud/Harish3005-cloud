@@ -18,7 +18,8 @@
 
 ## 🔧 Technologies & Tools  
 **Programming-Languages**
- -  **JAVA** | C | Python
+ -  **JAVA**  |  C  |  Python
+   
 **Full-stack Development:**  
 - HTML | CSS | JavaScript | Next.js | Vite.js | React | Node.js | GSAP | Three.js
   
