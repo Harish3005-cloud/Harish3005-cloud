@@ -17,8 +17,10 @@
 
 
 ## 🔧 Technologies & Tools  
+**Programming-Languages**
+ -  **JAVA** | C | Python
 **Full-stack Development:**  
-- HTML | CSS | JavaScript | Next.js | React | Node.js
+- HTML | CSS | JavaScript | Next.js | Vite.js | React | Node.js | GSAP | Three.js
   
 **Database (SQL & no-SQL)**
 - MongoDB | MySql | Sql-Plus
