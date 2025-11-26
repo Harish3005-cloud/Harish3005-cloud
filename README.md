@@ -50,7 +50,7 @@
 ## 📫 How to Reach Me  
 - **Email:** eharish3005@gmail.com
 - **LinkedIn:**  www.linkedin.com/in/harish-e-naidu-676992302 
-- **Portfolio:** https://vite-one-olive-43.vercel.app/
+- **Portfolio:** https://hari-3005.vercel.app/
 
 ---
 
