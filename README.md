@@ -10,10 +10,11 @@
 </p>
 
 ### 📊 Real-time Momentum
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Harish's Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="180px" />
-</p>
+</p> -->
+![My Professional Stats](/github-metrics.svg)
 
 ---
 
