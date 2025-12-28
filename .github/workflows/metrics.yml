@@ -2,6 +2,11 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+
+# ADD IT HERE (at the same level as 'on:' and 'name:')
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
