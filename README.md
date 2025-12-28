@@ -1,13 +1,18 @@
-# ⚡ Hello, I'm Harish E  
-**Full-Stack Architect | Data Alchemist | Creative Developer**
+# 👋 Harish E | Full-Stack Developer
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=Building+Dynamic+Web+Apps;Data+Analyst+at+Heart;Lifelong+Learner)
+
+---
+
+### 💻 My Digital Workspace
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Harish3005-cloud&theme=vue-dark&show_icons=true" height="170px" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harish3005-cloud&theme=vue-dark&layout=compact" height="170px" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,nextjs,react,nodejs,mongodb,mysql,docker,jenkins,github,figma" />
 </p>
 
-### 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harish3005-cloud&theme=onedark&column=4&margin-w=15)
+### 📊 Real-time Momentum
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish3005-cloud&theme=react-dark" width="100%" />
+</p>
 
 ---
 
