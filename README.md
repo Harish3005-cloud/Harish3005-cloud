@@ -1,62 +1,43 @@
-# 👋 Hi, I'm Harish E  
+# ⚡ Hello, I'm Harish E  
+**Full-Stack Architect | Data Alchemist | Creative Developer**
 
-**💻 Full-Stack Web Developer | 📊 Data Analyst | 🌱 Lifelong Learner**
-
-
-![Harish3005-cloud's Stats](https://github-readme-stats.vercel.app/api?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
----
-
-## 🚀 About Me  
-- Passionate about building dynamic and data-driven web applications.  
-- Enthusiastic about data analysis and turning raw data into meaningful insights.  
-- Continuously learning new technologies and improving my skills.  
-
----
-![Harish3005-cloud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish3005-cloud&theme=vue-dark&hide_border=false)
-
-
-## 🔧 Technologies & Tools  
-**Programming-Languages**
- -  **JAVA**  |  C  |  Python
-   
-**Full-stack Development:**  
-- HTML | CSS | JavaScript | Next.js | Vite.js | React | Node.js | GSAP | Three.js
-  
-**Database (SQL & no-SQL)**
-- MongoDB | MySql | Sql-Plus
-
-**Data Analysis:**  
-- Python | Pandas | NumPy | Matplotlib  
-
-**Version Control & Deployment:**  
-- Git | GitHub | Docker | jenkins | vercel
-  
-**Other Familiar tools**
-- Wireshark | network simulator | figma 
-
-![Harish3005-cloud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Harish's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish3005-cloud&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="180px" />
+</p>
 
 ---
 
-## 📈 Current Focus  
-- Enhancing **Full-Stack Web** development skills.  
-- Learning advanced **Data Science** techniques.
-- Getting Strong with **JAVA**  
-
-
----
-
-## 📫 How to Reach Me  
-- **Email:** eharish3005@gmail.com
-- **LinkedIn:**  www.linkedin.com/in/harish-e-naidu-676992302 
-- **Portfolio:** https://hari-3005.vercel.app/
+### 🧪 About Me
+- **Frontend Wizardry:** Crafting immersive experiences with **Three.js** and **GSAP**.
+- **Data Driven:** Transforming raw numbers into actionable insights using Python.
+- **Problem Solver:** Deep diving into **Java** and backend architecture.
+- **Current Mission:** Bridging the gap between high-performance web apps and complex data science.
 
 ---
 
-## 🌟 Fun Fact  
-I love combining creativity and logic to build impactful projects!
+### 🛠️ Tech Stack & Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat&logo=three.js) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white) |
+| **Backend/DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=python) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
-## Projects Made
 
+### 📈 Activity & Momentum
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish3005-cloud&theme=vue-dark&hide_border=false)
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="mailto:eharish3005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harish-e-naidu-676992302"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://hari-3005.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+> **Fun Fact:** I believe every pixel should have a purpose and every data point should tell a story.
