@@ -5,7 +5,7 @@
 
 ### 💻 My Digital Workspace
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,nextjs,react,nodejs,restapi,,express,mongodb,mysql,docker,jenkins,github,figma" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,nextjs,react,nodejs,express,graphql,postman,mongodb,mysql,docker,jenkins,github,figma" />
 </p>
 
 ### 📊 Real-time Momentum
