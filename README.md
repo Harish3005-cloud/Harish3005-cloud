@@ -17,7 +17,9 @@
 
 ---
 ### LeetCode Status 
+
 ![Stats](https://leetcode-stats-card.herokuapp.com/?username=hari308&theme=dark)
+
 ---
 
 ### 🧪 About Me
