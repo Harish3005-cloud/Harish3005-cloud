@@ -18,7 +18,7 @@
 ---
 ### LeetCode Status 
 
-![Stats](https://leetcode-stats-card.herokuapp.com/?username=hari308&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hari308?theme=dark&font=Ubuntu&ext=activity)
 
 ---
 
