@@ -16,6 +16,9 @@
 ![My Professional Stats](/github-metrics.svg)
 
 ---
+### LeetCode Status 
+![Stats](https://leetcode-stats-card.herokuapp.com/?username=hari308&theme=dark)
+---
 
 ### 🧪 About Me
 - **Frontend Wizardry:** Crafting immersive experiences with **Three.js** and **GSAP**.
